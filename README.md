@@ -23,10 +23,10 @@ No support is provided for this application.  Use at your own discretion.
 
 # Roadmap
 
-Will eventually add a button to reset the game, rather than requiring a reload of the browser.
-Will also fix the following known bugs:
-	Player can change a square that has already been played.
-	Game does not end after a winner is declared or all squares are filled.
+1. Will eventually add a button to reset the game, rather than requiring a reload of the browser.
+2. Will also fix the following known bugs:
+	* Player can change a square that has already been played.
+	* Game does not end after a winner is declared or all squares are filled.
 
 # License information
 
